@@ -8,3 +8,6 @@ __pycache__
 *.txt~
 *.lnk
 
+/creator-labs-files/CL-archive/original-export.json
+/creator-labs-files/CL-archive/redact-info.sh
+/creator-labs-files/CL-archive/remove-draft.sh
