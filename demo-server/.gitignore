@@ -1,0 +1,10 @@
+extractTeamAvatars.sh
+generateURL.sh
+rawApprovedAvs.json
+rawApprovedScenes.json
+rawFeaturedAvs.json
+rawFeaturedScenes.json
+scrapeAvatars.sh
+scrapeScenes.sh
+output
+output_urls
