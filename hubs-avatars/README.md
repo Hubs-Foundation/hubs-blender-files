@@ -1,2 +1,3 @@
-# hubs-blender-files
-A place to put our share-able Blender files.
+# Hubs-Avatars
+
+A place to put our share-able Hubs Avatar files.

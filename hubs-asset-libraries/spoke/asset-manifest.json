@@ -1,0 +1,616 @@
+{
+  "name": "Hubs Sound Pack",
+  "searchPlaceholder": "Search sounds...",
+  "assets": [
+    {
+      "id": "Meeting_Room_no_Music",
+      "label": "Meeting Room no Music",
+      "type": "Audio",
+      "url": "Meeting_Room/Meeting_Room_no_Music.mp3",
+      "tags": [
+        "Full_Mix",
+        "Meeting_Room"
+      ]
+    },
+    {
+      "id": "Meeting_Room_Building_Hum",
+      "label": "Meeting Room Building Hum",
+      "type": "Audio",
+      "url": "Meeting_Room/Components/Meeting_Room_Building_Hum.mp3",
+      "tags": [
+        "Meeting_Room/Components",
+        "Meeting_Room"
+      ]
+    },
+    {
+      "id": "Meeting_Room_Gentle_Wind",
+      "label": "Meeting Room Gentle Wind",
+      "type": "Audio",
+      "url": "Meeting_Room/Components/Meeting_Room_Gentle_Wind.mp3",
+      "tags": [
+        "Meeting_Room/Components",
+        "Meeting_Room"
+      ]
+    },
+    {
+      "id": "Meeting_Room_Music_Expansion",
+      "label": "Meeting Room Music Expansion",
+      "type": "Audio",
+      "url": "Meeting_Room/Components/Meeting_Room_Music_Expansion.mp3",
+      "tags": [
+        "Meeting_Room/Components",
+        "Meeting_Room"
+      ]
+    },
+    {
+      "id": "Meeting_Room_Distant_Waves",
+      "label": "Meeting Room Distant Waves",
+      "type": "Audio",
+      "url": "Meeting_Room/Components/Meeting_Room_Distant_Waves.mp3",
+      "tags": [
+        "Meeting_Room/Components",
+        "Meeting_Room"
+      ]
+    },
+    {
+      "id": "Meeting_Room_with_Music",
+      "label": "Meeting Room with Music",
+      "type": "Audio",
+      "url": "Meeting_Room/Meeting_Room_with_Music.mp3",
+      "tags": [
+        "Full_Mix",
+        "Meeting_Room"
+      ]
+    },
+    {
+      "id": "Cathedral_Music_Bach_Organ",
+      "label": "Cathedral Music Bach Organ",
+      "type": "Audio",
+      "url": "Cathedral/Components/Cathedral_Music_Bach_Organ.mp3",
+      "tags": [
+        "Cathedral/Components",
+        "Cathedral"
+      ]
+    },
+    {
+      "id": "Cathedral_Ambiance",
+      "label": "Cathedral Ambiance",
+      "type": "Audio",
+      "url": "Cathedral/Components/Cathedral_Ambiance.mp3",
+      "tags": [
+        "Cathedral/Components",
+        "Cathedral"
+      ]
+    },
+    {
+      "id": "Cathedral_with_Music",
+      "label": "Cathedral with Music",
+      "type": "Audio",
+      "url": "Cathedral/Cathedral_with_Music.mp3",
+      "tags": [
+        "Full_Mix",
+        "Cathedral"
+      ]
+    },
+    {
+      "id": "Cathedral_no_Music",
+      "label": "Cathedral no Music",
+      "type": "Audio",
+      "url": "Cathedral/Cathedral_no_Music.mp3",
+      "tags": [
+        "Full_Mix",
+        "Cathedral"
+      ]
+    },
+    {
+      "id": "Atrium_no_Music",
+      "label": "Atrium no Music",
+      "type": "Audio",
+      "url": "Atrium/Atrium_no_Music.mp3",
+      "tags": [
+        "Full_Mix",
+        "Atrium"
+      ]
+    },
+    {
+      "id": "Atrium_with_Music",
+      "label": "Atrium with Music",
+      "type": "Audio",
+      "url": "Atrium/Atrium_with_Music.mp3",
+      "tags": [
+        "Full_Mix",
+        "Atrium"
+      ]
+    },
+    {
+      "id": "Atrium_Musical_Active",
+      "label": "Atrium Musical Active",
+      "type": "Audio",
+      "url": "Atrium/Components/Atrium_Musical_Active.mp3",
+      "tags": [
+        "Atrium/Components",
+        "Atrium"
+      ]
+    },
+    {
+      "id": "Atrium_Fan",
+      "label": "Atrium Fan",
+      "type": "Audio",
+      "url": "Atrium/Components/Atrium_Fan.mp3",
+      "tags": [
+        "Atrium/Components",
+        "Atrium"
+      ]
+    },
+    {
+      "id": "Atrium_Musical_Active_Octave_Down",
+      "label": "Atrium Musical Active Octave Down",
+      "type": "Audio",
+      "url": "Atrium/Components/Atrium_Musical_Active_Octave_Down.mp3",
+      "tags": [
+        "Atrium/Components",
+        "Atrium"
+      ]
+    },
+    {
+      "id": "Atrium_Roomtone",
+      "label": "Atrium Roomtone",
+      "type": "Audio",
+      "url": "Atrium/Components/Atrium_Roomtone.mp3",
+      "tags": [
+        "Atrium/Components",
+        "Atrium"
+      ]
+    },
+    {
+      "id": "Atrium_Ventilation",
+      "label": "Atrium Ventilation",
+      "type": "Audio",
+      "url": "Atrium/Components/Atrium_Ventilation.mp3",
+      "tags": [
+        "Atrium/Components",
+        "Atrium"
+      ]
+    },
+    {
+      "id": "Atrium_Musical_Funky_Radio",
+      "label": "Atrium Musical Funky Radio",
+      "type": "Audio",
+      "url": "Atrium/Components/Atrium_Musical_Funky_Radio.mp3",
+      "tags": [
+        "Atrium/Components",
+        "Atrium"
+      ]
+    },
+    {
+      "id": "Atrium_Musical_Layer",
+      "label": "Atrium Musical Layer",
+      "type": "Audio",
+      "url": "Atrium/Components/Atrium_Musical_Layer.mp3",
+      "tags": [
+        "Atrium/Components",
+        "Atrium"
+      ]
+    },
+    {
+      "id": "Atrium_Music_Feng_Shui",
+      "label": "Atrium Music Feng Shui",
+      "type": "Audio",
+      "url": "Atrium/Components/Atrium_Music_Feng_Shui.mp3",
+      "tags": [
+        "Atrium/Components",
+        "Atrium"
+      ]
+    },
+    {
+      "id": "Office_with_Music_Cheesy_Musak",
+      "label": "Office with Music Cheesy Musak",
+      "type": "Audio",
+      "url": "Office/Office_with_Music_Cheesy_Musak.mp3",
+      "tags": [
+        "Full_Mix",
+        "Office"
+      ]
+    },
+    {
+      "id": "Office_Ambiance",
+      "label": "Office Ambiance",
+      "type": "Audio",
+      "url": "Office/Components/Office_Ambiance.mp3",
+      "tags": [
+        "Office/Components",
+        "Office"
+      ]
+    },
+    {
+      "id": "Office_Music_Cheesy_Musak",
+      "label": "Office Music Cheesy Musak",
+      "type": "Audio",
+      "url": "Office/Components/Office_Music_Cheesy_Musak.mp3",
+      "tags": [
+        "Office/Components",
+        "Office"
+      ]
+    },
+    {
+      "id": "Office_no_Music",
+      "label": "Office no Music",
+      "type": "Audio",
+      "url": "Office/Office_no_Music.mp3",
+      "tags": [
+        "Full_Mix",
+        "Office"
+      ]
+    },
+    {
+      "id": "Nighttime_Campfire_no_Music",
+      "label": "Nighttime Campfire no Music",
+      "type": "Audio",
+      "url": "Nighttime_Campfire/Nighttime_Campfire_no_Music.mp3",
+      "tags": [
+        "Full_Mix",
+        "Nighttime_Campfire"
+      ]
+    },
+    {
+      "id": "Nighttime_Campfire_Music_Hang_Drum",
+      "label": "Nighttime Campfire Music Hang Drum",
+      "type": "Audio",
+      "url": "Nighttime_Campfire/Components/Nighttime_Campfire_Music_Hang_Drum.mp3",
+      "tags": [
+        "Nighttime_Campfire/Components",
+        "Nighttime_Campfire"
+      ]
+    },
+    {
+      "id": "Nighttime_Campfire_Crickets_Ambiance",
+      "label": "Nighttime Campfire Crickets Ambiance",
+      "type": "Audio",
+      "url": "Nighttime_Campfire/Components/Nighttime_Campfire_Crickets_Ambiance.mp3",
+      "tags": [
+        "Nighttime_Campfire/Components",
+        "Nighttime_Campfire"
+      ]
+    },
+    {
+      "id": "Nighttime_Campfire_Music_Didgeridoo",
+      "label": "Nighttime Campfire Music Didgeridoo",
+      "type": "Audio",
+      "url": "Nighttime_Campfire/Components/Nighttime_Campfire_Music_Didgeridoo.mp3",
+      "tags": [
+        "Nighttime_Campfire/Components",
+        "Nighttime_Campfire"
+      ]
+    },
+    {
+      "id": "Nighttime_Campfire_Campfire",
+      "label": "Nighttime Campfire Campfire",
+      "type": "Audio",
+      "url": "Nighttime_Campfire/Components/Nighttime_Campfire_Campfire.mp3",
+      "tags": [
+        "Nighttime_Campfire/Components",
+        "Nighttime_Campfire"
+      ]
+    },
+    {
+      "id": "Nighttime_Campfire_with_Music_Hang_Drum",
+      "label": "Nighttime Campfire with Music Hang Drum",
+      "type": "Audio",
+      "url": "Nighttime_Campfire/Nighttime_Campfire_with_Music_Hang_Drum.mp3",
+      "tags": [
+        "Full_Mix",
+        "Nighttime_Campfire"
+      ]
+    },
+    {
+      "id": "Nighttime_Campfire_with_Music_Didgeridoo",
+      "label": "Nighttime Campfire with Music Didgeridoo",
+      "type": "Audio",
+      "url": "Nighttime_Campfire/Nighttime_Campfire_with_Music_Didgeridoo.mp3",
+      "tags": [
+        "Full_Mix",
+        "Nighttime_Campfire"
+      ]
+    },
+    {
+      "id": "Sky_Castle_no_Music",
+      "label": "Sky Castle no Music",
+      "type": "Audio",
+      "url": "Sky_Castle/Sky_Castle_no_Music.mp3",
+      "tags": [
+        "Full_Mix",
+        "Sky_Castle"
+      ]
+    },
+    {
+      "id": "Sky_Castle_Musical_Layer",
+      "label": "Sky Castle Musical Layer",
+      "type": "Audio",
+      "url": "Sky_Castle/Components/Sky_Castle_Musical_Layer.mp3",
+      "tags": [
+        "Sky_Castle/Components",
+        "Sky_Castle"
+      ]
+    },
+    {
+      "id": "Sky_Castle_Bird_Sounds",
+      "label": "Sky Castle Bird Sounds",
+      "type": "Audio",
+      "url": "Sky_Castle/Components/Sky_Castle_Bird_Sounds.mp3",
+      "tags": [
+        "Sky_Castle/Components",
+        "Sky_Castle"
+      ]
+    },
+    {
+      "id": "Sky_Castle_Musical_Wind",
+      "label": "Sky Castle Musical Wind",
+      "type": "Audio",
+      "url": "Sky_Castle/Components/Sky_Castle_Musical_Wind.mp3",
+      "tags": [
+        "Sky_Castle/Components",
+        "Sky_Castle"
+      ]
+    },
+    {
+      "id": "Sky_Castle_Wind",
+      "label": "Sky Castle Wind",
+      "type": "Audio",
+      "url": "Sky_Castle/Components/Sky_Castle_Wind.mp3",
+      "tags": [
+        "Sky_Castle/Components",
+        "Sky_Castle"
+      ]
+    },
+    {
+      "id": "Sky_Castle_with_Music",
+      "label": "Sky Castle with Music",
+      "type": "Audio",
+      "url": "Sky_Castle/Sky_Castle_with_Music.mp3",
+      "tags": [
+        "Full_Mix",
+        "Sky_Castle"
+      ]
+    },
+    {
+      "id": "Wide_Open_Space_Music_Raging",
+      "label": "Wide Open Space Music Raging",
+      "type": "Audio",
+      "url": "Wide_Open_Space/Wide_Open_Space_Music_Raging.mp3",
+      "tags": [
+        "Full_Mix",
+        "Wide_Open_Space"
+      ]
+    },
+    {
+      "id": "Wide_Open_Space_Music_Mellow_Matrix",
+      "label": "Wide Open Space Music Mellow Matrix",
+      "type": "Audio",
+      "url": "Wide_Open_Space/Wide_Open_Space_Music_Mellow_Matrix.mp3",
+      "tags": [
+        "Full_Mix",
+        "Wide_Open_Space"
+      ]
+    },
+    {
+      "id": "Medieval_Fantasy_Book_Music_Bluegrass",
+      "label": "Medieval Fantasy Book Music Bluegrass",
+      "type": "Audio",
+      "url": "Medieval_Fantasy_Book/Components/Medieval_Fantasy_Book_Music_Bluegrass.mp3",
+      "tags": [
+        "Medieval_Fantasy_Book/Components",
+        "Medieval_Fantasy_Book"
+      ]
+    },
+    {
+      "id": "Medieval_Fantasy_Book_Cows",
+      "label": "Medieval Fantasy Book Cows",
+      "type": "Audio",
+      "url": "Medieval_Fantasy_Book/Components/Medieval_Fantasy_Book_Cows.mp3",
+      "tags": [
+        "Medieval_Fantasy_Book/Components",
+        "Medieval_Fantasy_Book"
+      ]
+    },
+    {
+      "id": "Medieval_Fantasy_Book_Music_Pastorale",
+      "label": "Medieval Fantasy Book Music Pastorale",
+      "type": "Audio",
+      "url": "Medieval_Fantasy_Book/Components/Medieval_Fantasy_Book_Music_Pastorale.mp3",
+      "tags": [
+        "Medieval_Fantasy_Book/Components",
+        "Medieval_Fantasy_Book"
+      ]
+    },
+    {
+      "id": "Medieval_Fantasy_Book_Ambiance",
+      "label": "Medieval Fantasy Book Ambiance",
+      "type": "Audio",
+      "url": "Medieval_Fantasy_Book/Components/Medieval_Fantasy_Book_Ambiance.mp3",
+      "tags": [
+        "Medieval_Fantasy_Book/Components",
+        "Medieval_Fantasy_Book"
+      ]
+    },
+    {
+      "id": "Medieval_Fantasy_Book_with_Music_Pastorale",
+      "label": "Medieval Fantasy Book with Music Pastorale",
+      "type": "Audio",
+      "url": "Medieval_Fantasy_Book/Medieval_Fantasy_Book_with_Music_Pastorale.mp3",
+      "tags": [
+        "Full_Mix",
+        "Medieval_Fantasy_Book"
+      ]
+    },
+    {
+      "id": "Medieval_Fantasy_Book_with_Music_Bluegrass",
+      "label": "Medieval Fantasy Book with Music Bluegrass",
+      "type": "Audio",
+      "url": "Medieval_Fantasy_Book/Medieval_Fantasy_Book_with_Music_Bluegrass.mp3",
+      "tags": [
+        "Full_Mix",
+        "Medieval_Fantasy_Book"
+      ]
+    },
+    {
+      "id": "Medieval_Fantasy_Book_no_Music",
+      "label": "Medieval Fantasy Book no Music",
+      "type": "Audio",
+      "url": "Medieval_Fantasy_Book/Medieval_Fantasy_Book_no_Music.mp3",
+      "tags": [
+        "Full_Mix",
+        "Medieval_Fantasy_Book"
+      ]
+    },
+    {
+      "id": "City_Park_with_Music_Sunrise",
+      "label": "City Park with Music Sunrise",
+      "type": "Audio",
+      "url": "City_Park/City_Park_with_Music_Sunrise.mp3",
+      "tags": [
+        "Full_Mix",
+        "City_Park"
+      ]
+    },
+    {
+      "id": "City_Park_with_Music_Impressionist",
+      "label": "City Park with Music Impressionist",
+      "type": "Audio",
+      "url": "City_Park/City_Park_with_Music_Impressionist.mp3",
+      "tags": [
+        "Full_Mix",
+        "City_Park"
+      ]
+    },
+    {
+      "id": "City_Park_Ambiance",
+      "label": "City Park Ambiance",
+      "type": "Audio",
+      "url": "City_Park/Components/City_Park_Ambiance.mp3",
+      "tags": [
+        "City_Park/Components",
+        "City_Park"
+      ]
+    },
+    {
+      "id": "City_Park_Music_Impressionist",
+      "label": "City Park Music Impressionist",
+      "type": "Audio",
+      "url": "City_Park/Components/City_Park_Music_Impressionist.mp3",
+      "tags": [
+        "City_Park/Components",
+        "City_Park"
+      ]
+    },
+    {
+      "id": "City_Park_Music_Sunrise",
+      "label": "City Park Music Sunrise",
+      "type": "Audio",
+      "url": "City_Park/Components/City_Park_Music_Sunrise.mp3",
+      "tags": [
+        "City_Park/Components",
+        "City_Park"
+      ]
+    },
+    {
+      "id": "City_Park_no_Music",
+      "label": "City Park no Music",
+      "type": "Audio",
+      "url": "City_Park/City_Park_no_Music.mp3",
+      "tags": [
+        "Full_Mix",
+        "City_Park"
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "label": "Full Mix",
+      "value": "Full_Mix"
+    },
+    {
+      "label": "Meeting Room",
+      "value": "Meeting_Room",
+      "children": [
+        {
+          "label": "Components",
+          "value": "Meeting_Room/Components"
+        }
+      ]
+    },
+    {
+      "label": "Cathedral",
+      "value": "Cathedral/Components",
+      "children": [
+        {
+          "label": "Components",
+          "value": "Cathedral/Components"
+        }
+      ]
+    },
+    {
+      "label": "Atrium",
+      "value": "Atrium",
+      "children": [
+        {
+          "label": "Components",
+          "value": "Atrium/Components"
+        }
+      ]
+    },
+    {
+      "label": "Office",
+      "value": "Office",
+      "children": [
+        {
+          "label": "Components",
+          "value": "Office/Components"
+        }
+      ]
+    },
+    {
+      "label": "Nighttime Campfire",
+      "value": "Nighttime_Campfire",
+      "children": [
+        {
+          "label": "Components",
+          "value": "Nighttime_Campfire/Components"
+        }
+      ]
+    },
+    {
+      "label": "Sky Castle",
+      "value": "Sky_Castle",
+      "children": [
+        {
+          "label": "Components",
+          "value": "Sky_Castle/Components"
+        }
+      ]
+    },
+    {
+      "label": "Wide Open Space",
+      "value": "Wide_Open_Space"
+    },
+    {
+      "label": "Medieval Fantasy Book",
+      "value": "Medieval_Fantasy_Book/Components",
+      "children": [
+        {
+          "label": "Components",
+          "value": "Medieval_Fantasy_Book/Components"
+        }
+      ]
+    },
+    {
+      "label": "City Park",
+      "value": "City_Park",
+      "children": [
+        {
+          "label": "Components",
+          "value": "City_Park/Components"
+        }
+      ]
+    }
+  ]
+}
