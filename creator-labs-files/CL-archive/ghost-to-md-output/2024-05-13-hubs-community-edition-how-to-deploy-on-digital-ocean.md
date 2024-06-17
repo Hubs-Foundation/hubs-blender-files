@@ -202,7 +202,7 @@ and execute the docker file that we have by running
 
 and later once it's successfully build, generate your file by
 
-> docker run --rm -it -v .:./app hubs-ce-builder:latest
+> docker run --rm -it -v .:/app hubs-ce-builder:latest
 
 This creates the hcce.yaml file for us which we need to deploy to our kubernetes server spinned up on Digital Ocean
 
