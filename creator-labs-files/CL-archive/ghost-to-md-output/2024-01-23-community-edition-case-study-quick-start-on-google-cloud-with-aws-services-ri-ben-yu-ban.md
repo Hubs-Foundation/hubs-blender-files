@@ -9,6 +9,9 @@ excerpt: Documentation Awardee Kojiro Yano translates Mozilla's quick start guid
 
 ---
 
+> [!IMPORTANT]
+> **Editor's Note:** This article is based on the bash version of Community Edition, to follow along you will need to use the bash scripts from https://github.com/Hubs-Foundation/hubs-cloud/tree/bash-version
+
 本ブログポストは、Hubs Creator Labs に掲載された **[Community Edition Case Study: Quick Start on Google Cloud with AWS Services](__GHOST_URL__/community-edition-case-study-quick-start-on-gcp-w-aws-services/)**の日本語版です。日本語訳に加えて、筆者が有用と考えた情報を追記しています。
 
 本文に入る前に軽く自己紹介。 私、[やのせん](https://twitter.com/yanosen_jp)は情報系学部の大学教員で、現在の主な専門分野は教育工学、特に VR やメタバースを活用した教育です。今回の Community Edition の前身である Hubs Cloud については、操作方法などを追加したものを個人で運用して、実際の授業で活用してきました。
