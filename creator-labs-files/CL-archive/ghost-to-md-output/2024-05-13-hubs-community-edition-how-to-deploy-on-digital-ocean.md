@@ -346,7 +346,7 @@ and then comment it out:
         #- --default-ssl-certificate=hcce/cert-hcce
 ```
 
-After you did this, please reapply the configurtion and wait a short period of time. This should solve the domain issue.
+After you did this, please reapply the configuration and wait a short period of time. This should solve the domain issue.
 
 ```
 > kubectl apply -f hcce.yaml
