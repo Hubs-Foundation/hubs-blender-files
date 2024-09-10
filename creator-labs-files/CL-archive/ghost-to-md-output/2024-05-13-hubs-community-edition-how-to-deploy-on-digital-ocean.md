@@ -202,7 +202,7 @@ and execute the docker file that we have by running
 
 and later once it's successfully build, generate your file by
 
-> docker run --rm -it -v ./app hubs-ce-builder:latest
+> docker run --rm -it -v .:/app hubs-ce-builder:latest
 
 This creates the hcce.yaml file for us which we need to deploy to our kubernetes server spinned up on Digital Ocean
 
@@ -331,6 +331,26 @@ Afterwards,run the file by running
 > bash cbb.sh
 
 This will prompt us to install SSL for all the subdomains; simply press Enter to confirm. After it's complete, your instance is running successfully, and you can now sign in with your admin email.
+
+When all the subdomains (i.e. cors.$HUBDOMAIN, assets.$HUBDOMAIN and stream.$HUBDOMAIN) are successfully registered, $HUBDOMAIN however isn't, you need to remove one line from your `hcce.yaml`.
+
+Find and search for the following line
+
+```
+        - --default-ssl-certificate=hcce/cert-hcce
+```
+
+and then comment it out:
+
+```
+        #- --default-ssl-certificate=hcce/cert-hcce
+```
+
+After you did this, please reapply the configurtion and wait a short period of time. This should solve the domain issue.
+
+```
+> kubectl apply -f hcce.yaml
+```
 
 ## Enabling Audio Chat and ScreenShare
 
