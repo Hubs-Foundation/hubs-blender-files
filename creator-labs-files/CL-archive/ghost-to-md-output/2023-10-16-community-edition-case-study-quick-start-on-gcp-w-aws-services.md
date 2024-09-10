@@ -9,6 +9,9 @@ excerpt: This article walks you through one way of setting up a Community Editio
 
 ---
 
+> [!IMPORTANT]
+> **Editor's Note:** This article is based on the bash version of Community Edition, to follow along you will need to use the bash scripts from https://github.com/Hubs-Foundation/hubs-cloud/tree/bash-version
+
 ## Introduction
 
 In this step-by-step guide, you will learn how to quickly deploy an instance of [Hubs Community Edition](https://github.com/mozilla/hubs-cloud/tree/feature/ce/community-edition) on Google Cloud using AWS's Route53 and Simple Email Service (SES). This guide is perfect for Hubs Cloud customers who are familiar with navigating AWS services and interested in learning about how to host Hubs on a new platform like Google Cloud.

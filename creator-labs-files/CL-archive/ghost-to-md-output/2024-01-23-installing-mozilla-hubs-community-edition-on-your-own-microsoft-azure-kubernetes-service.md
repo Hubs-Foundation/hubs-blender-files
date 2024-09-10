@@ -9,6 +9,9 @@ excerpt: Community Edition Documentation Awardee Stan Tophoven's guide takes you
 
 ---
 
+> [!IMPORTANT]
+> **Editor's Note:** This article is based on the bash version of Community Edition, to follow along you will need to use the bash scripts from https://github.com/Hubs-Foundation/hubs-cloud/tree/bash-version
+
 Hello! Before we start, let’s do a quick introduction. My name is Stan, a computer science student that loves to travel and play sports. I first came into contact with Hubs as an intern for a company that worked a lot with Mozilla Hubs to deliver experiences requiring accessibility that only Hubs could offer. To make these experiences unique and fit the requirements of customers, they have made custom clients. It was a simple but weird process where you could change the frontend of the application, aka the Hubs Client as I like to refer to it. Since the launch of Community Edition, the application still works the same way. But the process of deployment changed.
 
 This post is here to help you start up your own Mozilla Hubs instance using Kubernetes on Microsoft Azure, how to prepare for large scale events and what kind of costs you can expect. I probably used some jargon already, but later in my post those terms will be made clear.

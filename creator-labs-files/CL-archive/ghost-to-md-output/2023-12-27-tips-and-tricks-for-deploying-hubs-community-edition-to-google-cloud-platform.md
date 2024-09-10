@@ -8,6 +8,9 @@ excerpt: Perfect for those new to Kubernetes, Kieran Farr's guide takes you thro
 
 ---
 
+> [!IMPORTANT]
+> **Editor's Note:** This article is based on the bash version of Community Edition, to follow along you will need to use the bash scripts from https://github.com/Hubs-Foundation/hubs-cloud/tree/bash-version
+
 ## What is Mozilla Hubs?[​](http://localhost:3000/blog/mozilla-hubs-and-3dstreet-virtual-safe-street-collaboration#what-is-mozilla-hubs)
 
 Hubs is an [open-source 3D conferencing cloud software](https://labs.mozilla.org/projects/hubs/) that works across every browser and VR, AR headsets like the Oculus Quest. Users create "Rooms" and invite other users to join with live video and audio streaming like Zoom or Google Meets but for users with XR headsets they can choose live-animated 3D avatars connected to the XR headset and controllers for an immersive experience.

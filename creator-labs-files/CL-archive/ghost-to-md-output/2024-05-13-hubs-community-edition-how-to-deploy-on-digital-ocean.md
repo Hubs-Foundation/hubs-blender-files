@@ -6,6 +6,9 @@ date_updated: 2024-05-13T15:36:24.000Z
 tags: Tutorials
 ---
 
+> [!IMPORTANT]
+> **Editor's Note:** This article is based on the bash version of Community Edition, to follow along you will need to use the bash scripts from https://github.com/Hubs-Foundation/hubs-cloud/tree/bash-version
+
 In this documentation we’ll be going through a step by step guide on how to deploy your own custom managed version of Hubs using Community Edition. Myself **Hrithik**, I have now for a few years worked with hubs and hosted several large events on custom version of hubs using hubs-cloud (the predecessor of community-edition, available as a marketplace tool on AWS).
 
 ## Index
